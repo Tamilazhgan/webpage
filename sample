@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Home Page</title>
+</head>
+<body>
+	<header>
+		<h1>Welcome to my website</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h2>About me</h2>
+			<p>Hi, I'm Tamil, and this is my personal website. I'm a software developer with a passion for web development.</p>
+		</section>
+		<section>
+			<h2>Latest blog posts</h2>
+			<ul>
+				<li><a href="#">Post 1</a></li>
+				<li><a href="#">Post 2</a></li>
+				<li><a href="#">Post 3</a></li>
+			</ul>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2023 tamil </p>
+	</footer>
+</body>
+</html>
+
